@@ -1,3 +1,6 @@
+# Forked from [DumaisLib](https://github.com/pdumais/rest)
+There is no difference between original repos yet, but I try to support windows, ios, android, linux, osx.
+
 # DumaisLib
 This is a library containing several utilities for some projects of Patrick Dumais. 
 Previously, the libraries were all individual but it became more simple
